@@ -1,4 +1,4 @@
-xbsd-gtk2
+xbsd-gtk
 =========
 
-a gtk2 theme inspired by the Boje theme
+a forked gtk theme originally by nale12 (http://nale12.deviantart.com/)
