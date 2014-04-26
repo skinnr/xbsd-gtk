@@ -1,4 +1,4 @@
 xbsd-gtk
 =========
 
-a forked gtk theme originally by nale12 (http://nale12.deviantart.com/)
+a forked Boje gtk theme originally by nale12 (http://nale12.deviantart.com/)
