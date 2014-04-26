@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=xbsdtheme
+Comment=Slick and simple dark theme inspired by Boje theme by nale12
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=xbsdtheme
+MetacityTheme=xbsdtheme
+IconTheme=xbsdfaience
+CursorTheme=xbsdcursor
+ButtonLayout=:minimize,maximize,close
